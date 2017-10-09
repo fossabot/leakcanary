@@ -5,6 +5,7 @@ A memory leak detection library for Android and Java.
 *“A small leak will sink a great ship.”* - Benjamin Franklin
 
 ![screenshot.png](assets/screenshot.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fleakcanary.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fleakcanary?ref=badge_shield)
 
 ## Getting started
 
@@ -251,3 +252,6 @@ The name **LeakCanary** is a reference to the expression [canary in a coal mine]
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fleakcanary.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fleakcanary?ref=badge_large)
